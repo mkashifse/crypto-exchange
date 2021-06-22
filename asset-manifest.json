@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mkashifse/crypto-exchange.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/mkashifse/crypto-exchange.git/static/js/main.6cfabd74.chunk.js",
+    "main.js.map": "/mkashifse/crypto-exchange.git/static/js/main.6cfabd74.chunk.js.map",
+    "runtime-main.js": "/mkashifse/crypto-exchange.git/static/js/runtime-main.44302de9.js",
+    "runtime-main.js.map": "/mkashifse/crypto-exchange.git/static/js/runtime-main.44302de9.js.map",
+    "static/js/2.25cda216.chunk.js": "/mkashifse/crypto-exchange.git/static/js/2.25cda216.chunk.js",
+    "static/js/2.25cda216.chunk.js.map": "/mkashifse/crypto-exchange.git/static/js/2.25cda216.chunk.js.map",
+    "static/js/3.e904e4df.chunk.js": "/mkashifse/crypto-exchange.git/static/js/3.e904e4df.chunk.js",
+    "static/js/3.e904e4df.chunk.js.map": "/mkashifse/crypto-exchange.git/static/js/3.e904e4df.chunk.js.map",
+    "index.html": "/mkashifse/crypto-exchange.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/mkashifse/crypto-exchange.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.25cda216.chunk.js.LICENSE.txt": "/mkashifse/crypto-exchange.git/static/js/2.25cda216.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mkashifse/crypto-exchange.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44302de9.js",
+    "static/js/2.25cda216.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.6cfabd74.chunk.js"
+  ]
+}
